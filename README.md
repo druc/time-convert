@@ -1,7 +1,5 @@
 # TimeConvert
-Small package to help you convert time units into seconds, minutes, hours or days.
-
-There's no magic in it. It's only purpose is to increase the readability of your code. 
+A small package to help you convert time units and increase readability. 
 
 ``` php
 return TimeConvert::hours(12)->toMinutes(); // readable and meaningful

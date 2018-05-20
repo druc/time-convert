@@ -1,6 +1,6 @@
 {
   "name": "druc/time-convert",
-  "description": "Helps with time conversions",
+  "description": "Helps you convert time units and increase readability",
   "type": "library",
   "license": "MIT",
   "homepage": "https://github.com/druc/time-convert",
