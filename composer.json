@@ -2,6 +2,7 @@
   "name": "druc/time-convert",
   "description": "Helps you convert time units and increase readability",
   "type": "library",
+  "version": "0.1",
   "license": "MIT",
   "homepage": "https://github.com/druc/time-convert",
   "keywords": [
