@@ -17,7 +17,7 @@ return 60 * 12;
 Via Composer
 
 ``` bash
-$ composer require Druc/time-convert
+$ composer require druc/time-convert
 ```
 
 ## Usage
